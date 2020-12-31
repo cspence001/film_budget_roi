@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,E){"use strict";Object.defineProperty(E,"__esModule",{value:!0}),(function(e){e.INVITE="invite",e.REINVITE="reinvite",e.BYPASS="bypass",e.REJECT_ON_DIFFERENT_TEAM="reject_on_different_team",e.REJECT_ALREADY_PAIRED="reject_already_paired",e.REJECT_MISC="reject_misc",e.REJECT_RECOVERABLE_USER="reject_recoverable_user",e.REJECT_APPLE_RELAY_EMAIL="reject_apple_relay_email"})(E.InvitabilityState||(E.InvitabilityState={}))}));
+//# sourceMappingURL=invitability_state.min.js-vflbM10G1.map
