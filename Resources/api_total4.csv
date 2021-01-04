@@ -75,7 +75,7 @@ Gridiron Gang,2006,14570100,30000000,38432823,3025011,PG-13,Dramatization,Based 
 Stranger Than Fiction,2006,13800100,30000000,40435190,13137632,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,105
 Ultraviolet,2006,26670100,30000000,18522064,12440048,PG-13,Science Fiction,Original Screenplay,Live Action,Action,0,
 My Super Ex-Girlfriend,2006,23230100,30000000,22530295,38242561,PG-13,Super Hero,Original Screenplay,Live Action,Comedy,0,
-Wu ji,2006,64990100,30000000,669625,35200309,PG-13,Fantasy,Original Screenplay,Live Action,Action,0,
+The Promise,2006,64990100,30000000,669625,35200309,PG-13,Fantasy,Original Screenplay,Live Action,Action,0,
 Take the Lead,2006,16320100,30000000,34742066,30648427,PG-13,Dramatization,Based on Real Life Events,Live Action,Drama,0,
 Glory Road,2006,13030100,30000000,42647449,151611,PG,Dramatization,Based on Real Life Events,Live Action,Drama,0,
 Nacho Libre,2006,5860100,32000000,80197993,19098469,PG,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,90
@@ -102,7 +102,7 @@ Music and Lyrics,2006,10900100,40000000,50572589,95624296,PG-13,Contemporary Fic
 French Fried Vacation 3: Friends Forever,2006,124290100,42000000,0,83833602,,Contemporary Fiction,,Live Action,Comedy,1,
 Underworld: Evolution,2006,8340100,45000000,62318875,51098887,R,Fantasy,Original Screenplay,Live Action,Action,1,
 The Ant Bully,2006,130300100,45000000,28142535,21468363,PG,Kids Fiction,Based on Fiction Book/Short Story,Digital Animation,Adventure,0,89
-Man cheng jin dai huang jin jia,2006,43270100,45000000,6566773,70337656,R,Historical Fiction,Based on Play,Live Action,Action,0,
+Curse of the Golden Flower,2006,43270100,45000000,6566773,70337656,R,Historical Fiction,Based on Play,Live Action,Action,0,
 Last Holiday,2006,14590100,45000000,38399961,4943286,PG-13,Contemporary Fiction,Remake,Live Action,Comedy,0,112
 16 Blocks,2006,130180100,45000000,36895141,28700000,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0,105
 Happily N'Ever After,2006,29460100,47000000,15849032,22074786,PG,Kids Fiction,Original Screenplay,Digital Animation,Adventure,0,87
@@ -321,7 +321,7 @@ Kit Kittredge: An American Girl,2008,27330100,10000000,17657973,0,G,Historical F
 My Blueberry Nights,2008,62960100,10000000,866778,21332218,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Drama,0,
 Adam Resurrected,2008,132790100,10000000,0,90909,,,,,,0,
 "Run, Fat Boy, Run",2008,44250100,10000000,6003262,27508998,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,100
-Joheunnom nabbeunnom isanghannom,2008,119900100,10000000,128486,42098171,R,Historical Fiction,Original Screenplay,Live Action,Action,0,
+The Good the Bad the Weird,2008,119900100,10000000,128486,42098171,R,Historical Fiction,Original Screenplay,Live Action,Action,0,
 "War, Inc.",2008,66120100,10000000,580862,718993,R,Contemporary Fiction,Original Screenplay,Live Action,Black Comedy,0,
 Saw V,2008,9370100,10800000,56746769,61463009,R,Contemporary Fiction,Original Screenplay,Live Action,Horror,1,92
 The Secret Life of Bees,2008,14980100,11000000,37780486,2213861,PG-13,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,110
@@ -349,10 +349,10 @@ The Rocker,2008,43500100,15000000,6409528,2357810,PG-13,Contemporary Fiction,Ori
 The Countess,2008,115840100,15000000,0,3436763,R,Historical Fiction,Based on Folk Tale/Legend/Fairytale,Live Action,Drama,0,141
 The Yellow Handkerchief,2008,107610100,15500000,318623,0,PG-13,,Remake,Live Action,Drama,0,
 Good,2008,89950100,16000000,31631,0,R,Historical Fiction,Based on Play,Live Action,Drama,0,
-Bienvenue chez les Ch'tis,2008,58330100,16000000,1477650,245996847,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,106
+Welcome to the Sticks,2008,58330100,16000000,1477650,245996847,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,106
 Vicky Cristina Barcelona,2008,22700100,16000000,23216709,81288108,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,97
 The Women,2008,20300100,16000000,26902075,23201733,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,115
-Chasseurs de dragons,2008,124270100,17000000,0,13446115,PG-13,Kids Fiction,Original Screenplay,Digital Animation,Adventure,0,
+Dragon Hunters,2008,124270100,17000000,0,13446115,PG-13,Kids Fiction,Original Screenplay,Digital Animation,Adventure,0,
 How She Move,2008,42110100,17000000,7070641,1537174,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Drama,0,100
 Step Up 2 the Streets,2008,9040100,17500000,58017783,90569127,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Drama,1,98
 Prom Night,2008,12650100,18000000,43869350,13324305,PG-13,Contemporary Fiction,Remake,Live Action,Horror,0,87
@@ -365,7 +365,7 @@ The Baader Meinhof Complex,2008,71820100,19700000,476270,16022557,R,Dramatizatio
 Ghost Town,2008,32520100,20000000,13367624,16590604,PG-13,Fantasy,Original Screenplay,Live Action,Romantic Comedy,0,102
 The Bank Job,2008,18780100,20000000,30060660,36082345,R,Dramatization,Based on Real Life Events,Live Action,Thriller/Suspense,0,110
 Admiral,2008,121760100,20000000,0,38585047,,Historical Fiction,,Live Action,Drama,0,124
-Three Kingdoms: Resurrection of the Dragon,2008,124190100,20000000,0,22139590,R,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Action,0,
+Three Kingdoms,2008,124190100,20000000,0,22139590,R,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Action,0,
 The Children of Huang Shi,2008,61280100,20000000,1031872,7189828,R,Dramatization,Based on Real Life Events,Live Action,Drama,0,125
 An American Carol,2008,130920100,20000000,7013191,8992,PG-13,Fantasy,Original Screenplay,Live Action,Comedy,0,83
 Strange Wilderness,2008,43260100,20000000,6575282,371802,R,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,86
@@ -399,7 +399,7 @@ Deception,2008,47520100,25000000,4598506,8251527,R,Contemporary Fiction,Original
 Gran Torino,2008,1890100,25000000,148095302,126447783,R,Contemporary Fiction,Original Screenplay,Live Action,Drama,0,116
 The House Bunny,2008,11410100,25000000,48237389,23153212,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,97
 Blindness,2008,51830100,25000000,3073392,16979566,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Thriller/Suspense,0,121
-Fly Me To the Moon,2008,30960100,25000000,14543943,28986338,G,Kids Fiction,Original Screenplay,Digital Animation,Adventure,0,84
+Fly Me to the Moon,2008,30960100,25000000,14543943,28986338,G,Kids Fiction,Original Screenplay,Digital Animation,Adventure,0,84
 The Ruins,2008,27650100,25000000,17432844,5477719,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Horror,0,90
 W.,2008,21140100,25100000,25534493,3041285,PG-13,Dramatization,Based on Real Life Events,Live Action,Drama,0,129
 Pineapple Express,2008,5110100,26000000,87341380,15062639,R,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,112
@@ -483,7 +483,7 @@ You Don't Mess With the Zohan,2008,4380100,90000000,100018837,102892154,PG-13,Co
 Tropic Thunder,2008,3560100,90000000,110515313,80629943,R,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,106
 The Spiderwick Chronicles,2008,6890100,92500000,71195053,91644614,PG,Fantasy,Based on Fiction Book/Short Story,Live Action,Adventure,0,96
 "10,000 B.C.",2008,129860100,105000000,94784201,174281477,PG-13,Historical Fiction,Original Screenplay,Live Action,Adventure,0,109
-Astérix aux Jeux Olympiques,2008,61850100,113500000,999811,132000000,Not Rated,Fantasy,Based on Comic/Graphic Novel,Live Action,Adventure,0,
+Asterix at the Olympic Games,2008,61850100,113500000,999811,132000000,Not Rated,Fantasy,Based on Comic/Graphic Novel,Live Action,Adventure,0,
 Speed Racer,2008,12600100,120000000,43945766,49448696,PG,Science Fiction,Based on TV,Live Action,Action,0,135
 Australia,2008,11190100,130000000,49554002,165526808,PG-13,Historical Fiction,Original Screenplay,Live Action,Drama,0,165
 Kung Fu Panda,2008,790100,130000000,215434591,416475940,PG,Kids Fiction,Original Screenplay,Digital Animation,Adventure,0,91
@@ -530,7 +530,7 @@ My Bloody Valentine,2009,10510100,14000000,51545952,51290050,R,Contemporary Fict
 Easy Virtue,2009,53310100,14000000,2656784,17880957,PG-13,Historical Fiction,Based on Play,Live Action,Romantic Comedy,0,96
 The Hurt Locker,2009,33690100,15000000,17017811,32876412,R,Contemporary Fiction,Original Screenplay,Live Action,Drama,0,130
 Post Grad,2009,43620100,15000000,6382178,181224,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Romantic Comedy,0,88
-San suk si gin,2009,106310100,15000000,0,2013340,R,Contemporary Fiction,,Live Action,Drama,0,119
+Shinjuku Incident,2009,106310100,15000000,0,2013340,R,Contemporary Fiction,,Live Action,Drama,0,119
 Whip It,2009,116050100,15000000,13077184,5812788,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Comedy,0,111
 The Last House on the Left,2009,17320100,15000000,32752215,13774028,R,Contemporary Fiction,Remake,Live Action,Horror,0,110
 Halloween II,2009,18100100,15000000,33392973,5119877,R,Fantasy,Original Screenplay,Live Action,Horror,1,105
@@ -538,8 +538,8 @@ All About Steve,2009,19950100,15000000,33862903,6264356,PG-13,Contemporary Ficti
 Whatever Works,2009,45910100,15000000,5306706,29800000,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Romantic Comedy,0,92
 The Unborn,2009,13010100,16000000,42670410,35538402,PG-13,Fantasy,Original Screenplay,Live Action,Horror,0,87
 Jennifer's Body,2009,39170100,16000000,16204793,15738608,R,Fantasy,Original Screenplay,Live Action,Thriller/Suspense,0,102
-Haeundae,2009,110530100,16000000,0,64733391,R,,,,,0,
-Hachiko: A Dog's Story,2009,104370100,16000000,0,47707417,G,Contemporary Fiction,Original Screenplay,Live Action,Drama,0,
+Tidal Wave,2009,110530100,16000000,0,64733391,R,,,,,0,
+Hachi: A Dog's Tale,2009,104370100,16000000,0,47707417,G,Contemporary Fiction,Original Screenplay,Live Action,Drama,0,
 Beastly,2009,114810100,17000000,27865571,10162659,PG-13,Fantasy,Based on Fiction Book/Short Story,Live Action,Drama,0,86
 My Life in Ruins,2009,39380100,17000000,8677425,11800000,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Romantic Comedy,0,95
 Friday the 13th,2009,7850100,17000000,65002019,27668218,R,Fantasy,Remake,Live Action,Horror,1,97
@@ -573,14 +573,14 @@ Obsessed,2009,7340100,20000000,68261644,5703069,PG-13,Contemporary Fiction,Origi
 Away We Go,2009,38170100,21000000,9451946,656070,R,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,98
 The Informant!,2009,31470100,22000000,33316821,8454347,R,Contemporary Fiction,Based on Factual Book/Article,Live Action,Thriller/Suspense,0,108
 Coco Before Chanel,2009,108930100,23000000,6113834,44700000,PG-13,Dramatization,Based on Real Life Events,Live Action,Drama,0,110
-Shi Yue Wei Cheng,2009,136750100,23000000,0,44195779,,Historical Fiction,,,Action,0,139
+Bodyguards and Assassins,2009,136750100,23000000,0,44195779,,Historical Fiction,,,Action,0,139
 Chéri,2009,53160100,23000000,2715657,0,R,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,92
 Zombieland,2009,105270100,23600000,75590286,26646310,R,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,87
 The Men Who Stare at Goats,2009,109740100,24000000,32428195,34920023,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Black Comedy,0,94
 Faster,2009,112590100,24000000,23240020,12552925,R,Contemporary Fiction,Original Screenplay,Live Action,Action,0,98
 Love Ranch,2009,119170100,25000000,137885,8264,R,Dramatization,Based on Real Life Events,Live Action,Drama,0,
 Fighting,2009,22770100,25000000,23091010,9740697,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0,84
-La véritable histoire du Chat Botté,2009,161480100,25000000,0,8208594,G,,,,,0,0
+The True Story of Puss'N Boots,2009,161480100,25000000,0,8208594,G,,,,,0,0
 The Box,2009,115470100,25000000,15051977,11289919,PG-13,Fantasy,Based on Fiction Book/Short Story,Live Action,Thriller/Suspense,0,115
 Bad Lieutenant: Port of Call New Orleans,2009,118960100,25000000,1702112,10711837,R,Contemporary Fiction,Remake,Live Action,Drama,0,122
 Me and Orson Welles,2009,110900100,25000000,1190003,0,PG-13,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,113
@@ -593,7 +593,7 @@ My Sister's Keeper,2009,11280100,27500000,49200230,47472772,PG-13,Contemporary F
 The Spy Next Door,2009,112360100,28000000,24307106,22445752,PG,Kids Fiction,Original Screenplay,Live Action,Adventure,0,94
 Taking Woodstock,2009,41490100,29000000,7460204,2606162,R,Dramatization,Based on Fiction Book/Short Story,Live Action,Drama,0,121
 Bride Wars,2009,8880100,30000000,58715510,56434914,PG,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,89
-Le Petit Nicolas,2009,135330100,30000000,201857,52137709,Not Rated,Kids Fiction,,Live Action,Adventure,0,91
+Little Nicholas,2009,135330100,30000000,201857,52137709,Not Rated,Kids Fiction,,Live Action,Adventure,0,91
 Up in the Air,2009,109830100,30000000,83823381,83019358,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,109
 District 9,2009,3460100,30000000,115646235,96807196,R,Science Fiction,Original Screenplay,Animation/Live Action,Thriller/Suspense,0,111
 Hannah Montana the Movie,2009,5960100,30000000,79576189,89597017,G,Contemporary Fiction,Based on TV,Live Action,Drama,0,102
@@ -614,7 +614,7 @@ Hotel for Dogs,2009,6630100,35000000,73178547,49178625,PG,Kids Fiction,Based on 
 The Blind Side,2009,112310100,35000000,255959475,49746319,PG-13,Dramatization,Based on Factual Book/Article,Live Action,Drama,0,128
 Underworld: Rise of the Lycans,2009,12140100,35000000,45802315,43300000,R,Fantasy,Original Screenplay,Live Action,Action,1,93
 Hot Tub Time Machine,2009,115330100,36000000,50269859,15697891,R,Science Fiction,Original Screenplay,Live Action,Comedy,0,99
-Obitaemyy ostrov,2009,123810100,36500000,0,15000000,,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0,
+Dark Planet,2009,123810100,36500000,0,15000000,,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,0,
 The Ugly Truth,2009,5030100,38000000,88915214,116383693,R,Contemporary Fiction,Original Screenplay,Live Action,Romantic Comedy,0,95
 Push,2009,17870100,38000000,31811527,12600000,PG-13,Science Fiction,Original Screenplay,Live Action,Thriller/Suspense,0,111
 The Time Traveler's Wife,2009,8460100,39000000,63414846,38917289,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,107
@@ -706,7 +706,7 @@ Bucky Larson: Born to Be a Star,2010,134550100,10000000,2529395,0,R,Contemporary
 Welcome to the Rileys,2010,139810100,10000000,152857,203062,R,Contemporary Fiction,Original Screenplay,Live Action,Drama,0,110
 Coriolanus,2010,142040100,10000000,749641,1429982,R,Historical Fiction,Based on Play,Live Action,Drama,0,122
 It's a Wonderful Afterlife,2010,144750100,10000000,0,1642939,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,99
-Io sono l’amore,2010,138830100,10000000,5005465,10116063,R,Historical Fiction,Original Screenplay,Live Action,Drama,0,119
+I Am Love,2010,138830100,10000000,5005465,10116063,R,Historical Fiction,Original Screenplay,Live Action,Drama,0,119
 The Reef,2010,159030100,10000000,0,15037867,R,Dramatization,Based on Real Life Events,Live Action,Thriller/Suspense,0,0
 Skyline,2010,138990100,10000000,21416355,46848618,PG-13,Science Fiction,Original Screenplay,Live Action,Thriller/Suspense,0,94
 Housefull,2010,137710100,10100000,1183658,17542642,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Romantic Comedy,0,135
@@ -1115,7 +1115,7 @@ The Collection,2012,174800100,10000000,6810754,2079340,R,Contemporary Fiction,Or
 The Iceman,2012,185940100,10000000,1930282,1693327,R,Dramatization,Based on Real Life Events,Live Action,Drama,0,105
 Sparkle,2012,170940100,10000000,24397469,262854,PG-13,Historical Fiction,Remake,Live Action,Drama,0,112
 Mud,2012,180070100,10000000,21590086,9966873,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Drama,0,130
-Le pr√©nom,2012,184450100,11000000,61611,25245794,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,,0,0
+What's in a Name?,2012,184450100,11000000,61611,25245794,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,,0,0
 Inside Llewyn Davis,2012,184960100,11000000,13248209,19695038,R,Historical Fiction,Based on Factual Book/Article,Live Action,Drama,0,104
 Peeples,2012,171140100,11000000,9177065,130101,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Romantic Comedy,0,95
 Think Like a Man,2012,161370100,12000000,91547205,21826559,PG-13,Contemporary Fiction,Based on Factual Book/Article,Live Action,Romantic Comedy,0,122
@@ -1178,7 +1178,7 @@ Jack Reacher,2012,177040100,60000000,80070736,137300000,PG-13,Contemporary Ficti
 Les Miserables,2012,167200100,65000000,148809770,293359282,PG-13,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Musical,0,158
 Resident Evil: Retribution,2012,158870100,65000000,42345531,198302098,R,Science Fiction,Based on Game,Live Action,Action,1,95
 Escape Plan,2012,143400100,70000000,25135965,78600000,R,Contemporary Fiction,Original Screenplay,Live Action,Thriller/Suspense,0,115
-Astérix et Obélix: Au service de Sa Majesté,2012,184080100,77600000,0,60680125,,Fantasy,Based on Comic/Graphic Novel,Live Action,Adventure,1,110
+Astérix and Obélix: God Save Britannia,2012,184080100,77600000,0,60680125,,Fantasy,Based on Comic/Graphic Novel,Live Action,Adventure,1,110
 Walking with Dinosaurs 3D,2012,165950100,80000000,36076121,87292721,PG,Kids Fiction,Based on TV,Animation/Live Action,Adventure,0,87
 Grown Ups 2,2012,172360100,80000000,133668525,113355283,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,1,100
 Pompeii,2012,115430100,80000000,23169033,85300000,PG-13,Historical Fiction,Original Screenplay,Live Action,Drama,0,102
@@ -1362,7 +1362,7 @@ The Imitation Game,2014,207140100,15000000,91125143,136615320,PG-13,Dramatizatio
 When the Game Stands Tall,2014,191210100,15000000,30127963,10949,PG,Contemporary Fiction,Based on Factual Book/Article,Live Action,Drama,0,114
 The November Man,2014,204470100,15000000,25018119,9802216,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Thriller/Suspense,0,108
 A Most Wanted Man,2014,202630100,15000000,17237855,18831035,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Thriller/Suspense,0,121
-Autómata,2014,205930100,15000000,0,6775458,R,Science Fiction,Original Screenplay,Live Action,Thriller/Suspense,0,110
+Automata,2014,205930100,15000000,0,6775458,R,Science Fiction,Original Screenplay,Live Action,Thriller/Suspense,0,110
 The Theory of Everything,2014,206120100,15000000,35893537,87434155,PG-13,Dramatization,Based on Factual Book/Article,Live Action,Drama,0,123
 "Men, Women & Children",2014,213380100,16000000,705908,979495,R,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,119
 The Homesman,2014,210010100,16000000,2429989,5787582,R,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Western,0,120
@@ -1390,7 +1390,7 @@ Draft Day,2014,200850100,25000000,28842237,1005243,PG-13,Contemporary Fiction,Or
 The Gambler,2014,215540100,25000000,33680992,5037039,R,Contemporary Fiction,Remake,Live Action,Drama,0,111
 Jane Got a Gun,2014,200410100,25000000,1513793,2257552,R,Historical Fiction,Original Screenplay,Live Action,Western,0,98
 The Giver,2014,197720100,25000000,45090374,10000000,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,97
-Yi ge ren de wu lin,2014,227340100,25000000,129115,0,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Action,0,100
+Kung Fu Jungle,2014,227340100,25000000,129115,0,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Action,0,100
 Red Sky,2014,147080100,25000000,0,91116,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,0,108
 Accidental Love,2014,121740100,26000000,0,135436,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,81
 The Best of Me,2014,199460100,26000000,26766213,14293205,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,118
@@ -1492,7 +1492,7 @@ Carol,2015,229910100,11800000,12711491,30132030,R,Historical Fiction,Based on Fi
 The Dressmaker,2015,237720100,11900000,2022115,22019502,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,118
 Lion,2015,218100100,12000000,51739495,97831225,PG-13,Dramatization,Based on Factual Book/Article,Live Action,Drama,0,120
 10 Days in a Madhouse,2015,222630100,12000000,14616,0,R,Dramatization,Original Screenplay,Live Action,Drama,0,111
-San cheng ji,2015,250470100,12000000,0,1950194,,Dramatization,Based on Real Life Events,Live Action,Drama,0,0
+A Tale of Three Cities,2015,250470100,12000000,0,1950194,,Dramatization,Based on Real Life Events,Live Action,Drama,0,0
 Paper Towns,2015,212140100,12000000,32000304,53450180,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,109
 Brothers,2015,236560100,13000000,656688,17200000,Not Rated,Contemporary Fiction,Remake,Live Action,Action,0,155
 Bajrangi Bhaijaan,2015,236700100,13000000,8178001,113600346,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Action,0,159
@@ -1509,7 +1509,7 @@ Scouts Guide to the Zombie Apocalypse,2015,208670100,15000000,3703046,11851809,R
 C√¨k√® Ni√® Yinni√°ng,2015,141280100,15000000,632542,10647342,Not Rated,Historical Fiction,Remake,Live Action,Drama,0,104
 The Disappointments Room,2015,215900100,15000000,2423467,1080294,R,Contemporary Fiction,Based on Real Life Events,Live Action,Horror,0,91
 In Dubious Battle,2015,226900100,15000000,0,214182,R,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,110
-Chiamatemi Francesco - Il papa della gente,2015,249240100,15000000,0,3925769,,Dramatization,Based on Real Life Events,Live Action,Drama,0,98
+Chiamatemi Francesco - Il Papa della gente,2015,249240100,15000000,0,3925769,,Dramatization,Based on Real Life Events,Live Action,Drama,0,98
 Bleed for This,2015,230810100,16000000,5083906,1520020,R,Dramatization,Based on Real Life Events,Live Action,Drama,0,116
 The Young Messiah,2015,193820100,16800000,6469813,843884,PG-13,Dramatization,Based on Comic/Graphic Novel,Live Action,Drama,0,111
 Genius,2015,230820100,17000000,1361045,5904238,PG-13,Dramatization,Based on Factual Book/Article,Live Action,Drama,0,104
@@ -1550,7 +1550,7 @@ The Boss,2015,221750100,29000000,63077560,15574647,R,Contemporary Fiction,Origin
 Collide,2015,218170100,29200000,2280004,3186694,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,0,99
 Steve Jobs,2015,218110100,30000000,17766658,17812349,R,Dramatization,Based on Factual Book/Article,Live Action,Drama,0,121
 Sicario,2015,223840100,30000000,46889293,37504456,R,Contemporary Fiction,Original Screenplay,Live Action,Thriller/Suspense,0,121
-Savva. Serdtse voyna,2015,249480100,30000000,0,4847112,,Kids Fiction,Original Screenplay,Digital Animation,Adventure,0,85
+A Warrior's Tail,2015,249480100,30000000,0,4847112,,Kids Fiction,Original Screenplay,Digital Animation,Adventure,0,85
 Entourage,2015,145960100,30000000,32363404,14075134,R,Contemporary Fiction,Based on TV,Live Action,Comedy,0,104
 Sisters,2015,206750100,30000000,87044645,18986015,R,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,117
 The Age of Adaline,2015,140860100,30000000,42629776,26354760,PG-13,Fantasy,Original Screenplay,Live Action,Drama,0,112
@@ -1581,7 +1581,7 @@ Baahubali: The Beginning,2015,236630100,40000000,6738000,19998665,Not Rated,Hist
 The Intern,2015,204330100,40000000,75764672,121351038,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,121
 The Conjuring 2,2015,204340100,40000000,102470008,208792094,R,Fantasy,Original Screenplay,Live Action,Horror,1,133
 Billy Lynn’s Long Halftime Walk,2015,215920100,40000000,1738477,28491925,R,Historical Fiction,Based on Fiction Book/Short Story,Live Action,Drama,0,110
-Pourquoi j'ai pas mangé mon père,2015,246520100,42000000,0,15451663,,Kids Fiction,Based on Fiction Book/Short Story,Digital Animation,Adventure,0,101
+Animal Kingdom: Let's go Ape,2015,246520100,42000000,0,15451663,,Kids Fiction,Based on Fiction Book/Short Story,Digital Animation,Adventure,0,101
 Taken 3,2015,205100100,48000000,89256424,238400000,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Action,1,118
 The Nice Guys,2015,213300100,50000000,36261763,23334984,R,Historical Fiction,Original Screenplay,Live Action,Black Comedy,0,116
 War Dogs,2015,220150100,50000000,43034523,43199980,R,Dramatization,Based on Factual Book/Article,Live Action,Comedy,0,114
@@ -1593,7 +1593,7 @@ Run All Night,2015,204280100,50000000,26461644,40500000,R,Contemporary Fiction,O
 Daddy’s Home,2015,232350100,50000000,150357137,92400000,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,96
 Black Mass,2015,210460100,53000000,62575678,36262194,R,Dramatization,Based on Factual Book/Article,Live Action,Drama,0,122
 Crimson Peak,2015,199200100,55000000,31090320,43876534,R,Contemporary Fiction,Original Screenplay,Live Action,Horror,0,118
-Zhuo yao ji,2015,236970100,56000000,32766,359462825,Not Rated,Fantasy,Original Screenplay,Live Action,Adventure,0,118
+Monster Hunt,2015,236970100,56000000,32766,359462825,Not Rated,Fantasy,Original Screenplay,Live Action,Adventure,0,118
 Deadpool,2015,142380100,58000000,363070709,437954884,R,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0,107
 Goosebumps,2015,204360100,58000000,80069458,78835866,PG,Fantasy,Based on Fiction Book/Short Story,Animation/Live Action,Horror,0,103
 Mortdecai,2015,206740100,60000000,7696134,22700000,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Adventure,0,107
@@ -1802,13 +1802,13 @@ Boo 2! A Madea Halloween,2017,291980100,20000000,47319572,560000,PG-13,Contempor
 Tyler Perry's Acrimony,2017,295300100,20000000,43549096,3078740,R,Contemporary Fiction,Original Screenplay,Live Action,Thriller/Suspense,0,120
 Suspiria,2017,148810100,20000000,2483472,4203796,R,Historical Fiction,Remake,Live Action,Horror,0,152
 A Simple Favor,2017,320270100,20000000,53548586,43626331,R,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Thriller/Suspense,0,116
-Jìyì dàshī,2017,289020100,20000000,587470,43301061,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Thriller/Suspense,0,119
+Battle of Memories,2017,289020100,20000000,587470,43301061,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Thriller/Suspense,0,119
 Thank You for Your Service,2017,285400100,20000000,9479390,505926,R,Dramatization,Based on Factual Book/Article,Live Action,Drama,0,108
 The Star,2017,198220100,20000000,40847995,21910015,PG,Kids Fiction,Based on Religious Text,Digital Animation,Adventure,0,86
 Blockers,2017,247620100,21000000,60311495,33733833,R,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,102
 Just Getting Started,2017,264800100,22000000,6069605,686807,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,90
 "Roman J. Israel, Esq.",2017,298120100,22000000,11962712,1004300,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Drama,0,129
-Chāi dàn zhuānjiā,2017,289010100,23000000,0,58807172,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Action,0,119
+Shock Wave,2017,289010100,23000000,0,58807172,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Action,0,119
 Battle of the Sexes,2017,241910100,25000000,12638526,5806853,PG-13,Dramatization,Based on Real Life Events,Live Action,Drama,0,121
 Beautiful Boy,2017,306500100,25000000,7634767,3954994,R,Contemporary Fiction,Based on Factual Book/Article,Live Action,Drama,0,112
 Matilda,2017,309270100,25000000,0,9370285,,Dramatization,Based on Real Life Events,Live Action,Drama,0,130
@@ -1897,7 +1897,7 @@ Justice League,2017,213080100,300000000,229024295,426920914,PG-13,Super Hero,Bas
 Avengers: Infinity War,2017,202830100,300000000,678815482,1369982200,PG-13,Super Hero,Based on Comic/Graphic Novel,Animation/Live Action,Action,1,156
 Star Wars: Episode VIII - The Last Jedi,2017,223080100,317000000,620181382,696540365,PG-13,Science Fiction,Original Screenplay,Live Action,Adventure,1,150
 Halloween,2018,264970100,10000000,159342015,93797291,R,Contemporary Fiction,Original Screenplay,Live Action,Horror,1,105
-PMC: deo beong-keo,2018,390770100,10300000,0,12478635,,Contemporary Fiction,Original Screenplay,Live Action,Action,,119
+Take Point,2018,390770100,10300000,0,12478635,Not Rated,Contemporary Fiction,Original Screenplay,Live Action,Action,,119
 Miss Bala,2018,321240100,15000000,14870702,110462,PG-13,Contemporary Fiction,Remake,Live Action,Action,0,104
 Second Act,2018,307410100,15700000,39282227,24085620,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Comedy,0,104
 Nobody's Fool,2018,321770100,19000000,31713110,876383,R,Contemporary Fiction,Original Screenplay,Live Action,Drama,0,110
